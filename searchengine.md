@@ -9,3 +9,6 @@ https://www.perplexity.ai/search?q=%s
 
 ama
 https://www.amazon.co.jp/s?k=%s
+
+ddglite
+https://lite.duckduckgo.com/lite/search?q=%s&kl=jp-jp
