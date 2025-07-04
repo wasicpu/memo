@@ -1,4 +1,4 @@
-googleimg
+gimg
 https://google.com/search?q=%s&tbm=isch
 
 ddgimg
